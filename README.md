@@ -1,5 +1,3 @@
-Jenkins Test
-
 ---
 page_type: sample
 languages:
